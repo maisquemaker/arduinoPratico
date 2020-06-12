@@ -1,5 +1,5 @@
 /*
-  Vídeo 4
+  Vídeo 5
 
   Neste vídeo, apresento um novo componente: o display de 7 segmentos,
   explicando como funcionam seus leds e a aplicação do cátodo comum.
