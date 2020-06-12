@@ -3,15 +3,18 @@
 
   Neste vídeo, uso o componente "matriz de leds" para introduzir o conceito
   de laços, explicando a estrutura de um "for" simples e o que é iteração.
-  
-  Apresento o primeiro conceito formal de variável e como declarar, tanto 
+
+  Apresento o primeiro conceito formal de variável e como declarar, tanto
   no corpo do programa como na estrutura do "for". Apresento ainda a
   manipulação e a maneira simplificada de incrementar variável no C.
 
   Mostro, em seguida, um exemplo de erro de lógica, o conceito de "escopo"
   e a diferença entre variáveis locais e globais.
 
-  
+
+  Link para o Thinkercad: https://www.tinkercad.com/things/djQAkdwqXOO
+
+
   Histórico:
     - 20200606 - Versão inicial
 
@@ -24,7 +27,7 @@
 int led = 0;
 
 void setup() {
-  
+
   for(int i = 3; i <= 12; i++) {
     pinMode(i, OUTPUT);
   }
@@ -32,7 +35,7 @@ void setup() {
 
 
 void loop() {
-  
+
   for (int i = 3; i <= 12; i++) {
     digitalWrite(i, LOW);
   }

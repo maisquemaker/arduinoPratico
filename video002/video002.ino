@@ -2,8 +2,8 @@
   Vídeo 2
 
   Neste vídeo, começo a utilizar o Arduino para controlar leds externos,
-  apresentando como usar várias portas ao mesmo tempo. 
-  
+  apresentando como usar várias portas ao mesmo tempo.
+
   Aproveito para introduzir o conceito de função e como declarar a
   primeira função e passar parâmetro para ela.
 
@@ -13,7 +13,10 @@
   Além disso, apresento o conceito de diretiva, a diretiva #define e sua
   diferença entre #define e variável.
 
-  
+
+  Link para o Thinkercad: https://www.tinkercad.com/things/djQAkdwqXOO
+
+
   Histórico:
     - 20200605 - Versão inicial
 
@@ -48,7 +51,7 @@ void acendeLed(int cor) {
   digitalWrite(12, LOW);
   digitalWrite(13, LOW);
 
-  if (cor == VERDE) { 
+  if (cor == VERDE) {
     digitalWrite(11, HIGH);
   }
 

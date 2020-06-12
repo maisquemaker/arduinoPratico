@@ -11,8 +11,11 @@
   otimizado e tem como propósito apenas mostrar a funcionalidade. O
   próximo vídeo apresentará mais informações necessárias ao
   aperfeiçoamento do código.
-  
-  
+
+
+  Link para o Thinkercad: https://www.tinkercad.com/things/1NBURcrdkvC
+
+
   Histórico:
     - 20200609 - Versão inicial
 
@@ -105,7 +108,7 @@ void escreveDigito(int dig) {
     digitalWrite(segF, HIGH);
     digitalWrite(segG, HIGH);
   }
-  
+
   if (dig == 7) {
     digitalWrite(segA, HIGH);
     digitalWrite(segB, HIGH);
