@@ -1,4 +1,4 @@
-# Vídeo 7 - Bytes, vetores e arrays Multidimensionais
+# Vídeo 7 - Bytes, vetores e arrays multidimensionais
 
 ## Descrição
 
@@ -33,7 +33,7 @@ A montagem utilizada é a mesma dos vídeos anteriores, ou seja, um Arduino, um 
 ### Documentação oficial
 
 * [`byte` (Tipo de dados)](https://www.arduino.cc/reference/pt/language/variables/data-types/byte/)
-* [vetor](https://www.arduino.cc/reference/pt/language/variables/data-types/array/)
+* [Vetor](https://www.arduino.cc/reference/pt/language/variables/data-types/array/)
 
 ## Licença
 
