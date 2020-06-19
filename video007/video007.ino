@@ -1,3 +1,31 @@
+/*
+  Vídeo 7
+
+  Neste vídeo, ainda com a mesma montagem com o display de 7 segmentos,
+  vamos aprimorar ainda mais o nosso código através do aprofundamento na
+  linguagem C.
+
+  Apresento o tipo 'byte' (um 'alias' para o tipo nativo `unsigned char`)
+  e a sua vantagem sobre o tipo 'int', apresentado anteriormente.
+
+  Apresento, ainda, a definição de `vetor`, como declarar e acessar, além
+  de suas vantagens e aplicação direta no projeto.
+
+  Continuo mostrando maneiras diferentes de mapear os segmentos de cada um
+  dos 10 dígitos, tornando o código cada vez mais eficiante
+
+  Link para o Thinkercad: https://www.tinkercad.com/things/5bakCaxvpBk
+
+
+  Histórico:
+    - 20200618 - Versão inicial
+
+  Os vídeos desta esta série podem ser assistidos no canal Mais Que Maker no
+  Youtube:
+  https://www.youtube.com/channel/UCAib0cXITygk7oFaeo3beUQ
+
+*/
+
 #define segA 3
 #define segB 4
 #define segC 5
@@ -8,7 +36,7 @@
 
 byte digito[10][7] = {
 
-// A B C D E F G 
+// A B C D E F G
   {1,1,1,1,1,1,0}, // Dígito 0
   {0,1,1,0,0,0,0}, // Dígito 1
   {1,1,0,1,1,0,1}, // Dígito 2
