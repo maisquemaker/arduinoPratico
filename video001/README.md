@@ -20,7 +20,7 @@ Neste vídeo introdutório, Os circuitos são bem simples, pois os experimentos 
 
 ### Vídeo
 
-* [Youtube](https://www.youtube.com/channel/UCAib0cXITygk7oFaeo3beUQ)
+* [Youtube](https://youtu.be/l0JxLxfGLc8)
 
 ### Circuitos e diagramas
 

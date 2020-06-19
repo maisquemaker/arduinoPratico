@@ -20,7 +20,7 @@ A montagem é bastante simples, contando apenas com um arduino, três leds e tr�
 
 ### Vídeo
 
-* [Youtube](https://www.youtube.com/channel/UCAib0cXITygk7oFaeo3beUQ)
+* [Youtube](https://youtu.be/CUbEBmEMMaM)
 
 ### Circuitos e diagramas
 

@@ -18,7 +18,7 @@ A montagem requer um Arduino, um array de leds (que pode ser substituída por de
 
 ### Vídeo
 
-* [Youtube](https://www.youtube.com/channel/UCAib0cXITygk7oFaeo3beUQ)
+* [Youtube](https://youtu.be/xnWyeCuxXg4)
 
 ### Circuitos e diagramas
 

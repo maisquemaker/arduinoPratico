@@ -16,7 +16,7 @@ A montagem é a mesma usada no vídeo anterior, pois trata-se apenas de um aprof
 
 ### Vídeo
 
-* [Youtube](https://www.youtube.com/channel/UCAib0cXITygk7oFaeo3beUQ)
+* [Youtube](https://youtu.be/rfqpyFBL3RE)
 
 ### Circuitos e diagramas
 

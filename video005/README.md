@@ -18,7 +18,7 @@ A montagem requer um Arduino, um display de 7 segmentos (no exemplo foi umsado u
 
 ### Vídeo
 
-* [Youtube](https://www.youtube.com/channel/UCAib0cXITygk7oFaeo3beUQ)
+* [Youtube](https://youtu.be/IAh0PLQDV4Y)
 
 ### Circuitos e diagramas
 
