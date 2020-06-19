@@ -15,3 +15,17 @@ Todas as aulas desse curso são compostas não apenas do vídeo, mas dos código
 * **Vídeo 3 - [O `for` em um array de leds](./video003)**
 * **Vídeo 4 - [Aprimorando o uso do array de leds](./video004)**
 * **Vídeo 5 - [O display de 7 segmentos](./video005)**
+* **Vídeo 6 - [Operações lógicas com o display de 7 segmentos](./video006)**
+* **Vídeo 7 - [Bytes, vetores e arrays multidimensionais](./video007)**
+
+## Documentação de referência
+
+* [Site arduino.cc](https://www.arduino.cc/reference/pt/)
+
+## Datasheets dos componentes usados no curso
+
+* [Datasheets](./datasheets)
+
+## Licença
+
+O conteúdo deste curso é licenciado sob [Atribuição 3.0 Brasil (CC BY 3.0 BR)](https://creativecommons.org/licenses/by/3.0/br)
