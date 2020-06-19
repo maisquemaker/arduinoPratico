@@ -10,7 +10,7 @@ Como foi o primeiro contato com o display, o código não está otimizado e tem 
 
 ## Montagem
 
-A montagem requer um Arduino, uma display de 7 segmentos (no exemplo foi umsado um modelo de cátodo comum) e 7 resistores.
+A montagem requer um Arduino, um display de 7 segmentos (no exemplo foi umsado um modelo de cátodo comum) e 7 resistores.
 
 ![Montagem do circuito do vídeo 5](imagens/montagem.png)
 

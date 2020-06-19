@@ -19,7 +19,7 @@ void setup() {
 
 void loop() {
   for (byte digito = 0; digito <= 9; digito++) {
-    escreveDigito(8);
+    escreveDigito(digito);
     delay(500);
   }
 }

@@ -1,3 +1,29 @@
+/*
+  Vídeo 6
+
+  Neste vídeo, continuo usando a mesma montagem com o display de 7
+  segmentos para apresentar uma introdução bem simplificada das operações
+  lógicas 'OU' e 'E', além da aplicação de comparações através do operador
+  'diferente' (!=).
+
+  Introduzo ainda a aplicação do `else` na complementação da instrução
+  if, apresentada anteriormente.
+
+  Durante todo o vídeo, mostro a importância em refatorar códigos de modo
+  a economizar memória nos programas desenvolvidos para microcontroladores.
+
+  Link para o Thinkercad: https://www.tinkercad.com/things/5bakCaxvpBk
+
+
+  Histórico:
+    - 20200618 - Versão inicial
+
+  Os vídeos desta esta série podem ser assistidos no canal Mais Que Maker no
+  Youtube:
+  https://www.youtube.com/channel/UCAib0cXITygk7oFaeo3beUQ
+
+*/
+
 #define segA 3
 #define segB 4
 #define segC 5
@@ -44,7 +70,7 @@ void escreveDigito(int dig) {
     digitalWrite(segD, HIGH);
   }
 
-  if (dig != 1 && dig != 3 && dig != 4 && 
+  if (dig != 1 && dig != 3 && dig != 4 &&
       dig != 5 && dig != 7 && dig != 9) {
     digitalWrite(segE, HIGH);
   }
