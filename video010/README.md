@@ -18,7 +18,7 @@ A montagem utiliza um resistor, um switch simples e dois resistores, sendo um pa
 
 ### Vídeo
 
-* [Youtube](https://youtu.be/ui9ANQsXYxc)
+* [Youtube](https://youtu.be/ztcxRdF0Y9I)
 
 ### Circuitos e diagramas
 

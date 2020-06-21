@@ -16,7 +16,7 @@ A montagem utilizada é a mesma dos vídeos anteriores, ou seja, um Arduino, um 
 
 ### Vídeo
 
-* [Youtube](https://youtu.be/kTGHHFRkQaw)
+* [Youtube](https://youtu.be/HbFGUHcJdPI)
 
 ### Circuitos e diagramas
 
