@@ -8,7 +8,7 @@ Apresento o tipo `byte` (um 'alias' para o tipo nativo `unsigned char`) e a sua 
 
 Apresento, ainda, a definição de `vetor`, como declarar e acessar e suas vantagens.
 
-Continuo mostrando maneiras diferentes de mapear os segmentos de cada um dos 10 dígitos, tornando o código cada vez mais eficiante
+Continuo mostrando maneiras diferentes de mapear os segmentos de cada um dos 10 dígitos, tornando o código cada vez mais eficiante.
 
 ## Montagem
 
@@ -20,7 +20,7 @@ A montagem utilizada é a mesma dos vídeos anteriores, ou seja, um Arduino, um 
 
 ### Vídeo
 
-* [Youtube](https://www.youtube.com/channel/UCAib0cXITygk7oFaeo3beUQ)
+* [Youtube](https://youtu.be/e8KcvJOm4uM)
 
 ### Circuitos e diagramas
 
