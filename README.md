@@ -17,6 +17,9 @@ Todas as aulas desse curso são compostas não apenas do vídeo, mas dos código
 * **Vídeo 5 - [O display de 7 segmentos](./video005)**
 * **Vídeo 6 - [Operações lógicas com o display de 7 segmentos](./video006)**
 * **Vídeo 7 - [Bytes, vetores e arrays multidimensionais](./video007)**
+* **Vídeo 8 - [Bits, bytes e o sistema de numeração binário](./video008)**
+* **Vídeo 9 - [Manipulação de bits](./video009)**
+* **Vídeo 10 - [Input, Pull-up e digitalRead](./video010)**
 
 ## Documentação de referência
 
