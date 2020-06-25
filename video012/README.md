@@ -1,4 +1,4 @@
-# Vídeo 12 - LDR, buzzer, potenciômetro e analogRead
+# Vídeo 12 - LDR, buzzer, potenciômetro, analogRead e um alarme simples
 
 ## Descrição
 
