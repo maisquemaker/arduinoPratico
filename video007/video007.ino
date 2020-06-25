@@ -14,7 +14,7 @@
   Continuo mostrando maneiras diferentes de mapear os segmentos de cada um
   dos 10 dígitos, tornando o código cada vez mais eficiante
 
-  Link para o Thinkercad: https://www.tinkercad.com/things/5bakCaxvpBk
+  Link para o Thinkercad: https://www.tinkercad.com/things/d4HlSnLgrtw
 
 
   Histórico:

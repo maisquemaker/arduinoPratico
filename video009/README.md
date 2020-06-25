@@ -20,7 +20,7 @@ A montagem utilizada é a mesma dos vídeos anteriores, ou seja, um Arduino, um 
 
 ### Circuitos e diagramas
 
-* [Circuito no Thinkercad](https://www.tinkercad.com/things/9gXcOIuYgss)
+* [Circuito no Thinkercad](https://www.tinkercad.com/things/2xSKDYAtZug)
 
 ### Datasheets
 

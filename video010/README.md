@@ -27,7 +27,7 @@ A montagem utiliza um resistor, um switch simples e dois resistores, sendo um pa
 ### Documentação oficial
 
 * [`digitalRead()`](https://www.arduino.cc/reference/pt/language/functions/digital-io/digitalread/)
-* [`INPUT` e ÌNPUT_PULLUP`](https://www.arduino.cc/reference/pt/language/variables/constants/constants/)
+* [`INPUT` e `INPUT_PULLUP`](https://www.arduino.cc/reference/pt/language/variables/constants/constants/)
 
 ## Licença
 
