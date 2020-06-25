@@ -8,6 +8,13 @@ Esta apresentação é necessária para se entender os assuntos abordados a part
 
 Apresento, ainda, um novo componente: o potenciômetro, explicando detalhadamente o porquê de ele ser, além de um resistor variável, também um divisor de tensão.
 
+
+## Montagem
+
+O circuito do vídeo é bastante simples, não usando nem mesmo o Arduino, mas apenas dois resistores, uma fonte e um multímetro.
+
+![Montagem do circuito do vídeo 11](imagens/montagem.png)
+
 ## Recursos
 
 ### Vídeo
@@ -16,7 +23,7 @@ Apresento, ainda, um novo componente: o potenciômetro, explicando detalhadament
 
 ### Circuitos e diagramas
 
-O vídeo é totalmente teórico e, por isso, não possui um circuito.
+[Circuito no Thinkercad](https://www.tinkercad.com/things/1acd726ywdN)
 
 ### Datasheets
 

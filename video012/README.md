@@ -12,11 +12,11 @@ Por fim, mostro a construção de um alarme de interrupção de laser, usando o 
 
 A montagem varia no decorrer da explicação, iniciando com a aplicação do potenciômetro e concluindo com a montagem de um alarme de interrupção totalmmente funcional usando laser.
 
+![Montagem do circuito do vídeo 12](imagens/montagem.png)
+
 ## Cuidados importantes
 
 **Você não deve apontar nenhum emissor de laser para pessoas ou animais. Este equipamento pode causar danos irreparáveis à visão.**
-
-![Montagem do circuito do vídeo 12](imagens/montagem.png)
 
 ## Recursos
 
