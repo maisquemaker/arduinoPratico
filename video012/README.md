@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Neste vídeo, apresento como usar as portas analógicas do Arduino através da função `analogRead()`. Através da aplicação direta da teoria apresentada no video anterior, demonstro como conseguimos obter vários valores diferentes na porta analógica A0 usando um potenciômetro comum.
+Neste vídeo, apresento como usar as portas analógicas do Arduino através da função `analogRead()`. Através da aplicação direta da teoria apresentada no vídeo anterior, demonstro como conseguimos obter vários valores diferentes na porta analógica A0 usando um potenciômetro comum.
 
 A seguir, mostro um componente novo: o **LDR**. Analiso a sua variação de resistência de acordo com a incidência de luz e faço um divisor de tensão simples usando um outro resistor e a teoria que já aprendemos.
 
@@ -22,7 +22,7 @@ A montagem varia no decorrer da explicação, iniciando com a aplicação do pot
 
 ### Vídeo
 
-* [Youtube](https://youtu.be/)
+* [Youtube](https://youtu.be/iIR9_Lfua_w)
 
 ### Circuitos e diagramas
 
