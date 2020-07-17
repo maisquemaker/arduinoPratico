@@ -10,7 +10,7 @@ Por fim, mostro a construção de um alarme de interrupção de laser, usando o 
 
 ## Montagem
 
-A montagem varia no decorrer da explicação, iniciando com a aplicação do potenciômetro e concluindo com a montagem de um alarme de interrupção totalmmente funcional usando laser.
+A montagem varia no decorrer da explicação, iniciando com a aplicação do potenciômetro e concluindo com a montagem de um alarme de interrupção totalmente funcional usando laser.
 
 ![Montagem do circuito do vídeo 12](imagens/montagem.png)
 

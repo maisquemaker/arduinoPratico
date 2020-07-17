@@ -19,7 +19,7 @@ O circuito do vídeo é bastante simples, não usando nem mesmo o Arduino, mas a
 
 ### Vídeo
 
-* [Youtube](https://youtu.be/)
+* [Youtube](https://youtu.be/oaMv8a2DhlQ)
 
 ### Circuitos e diagramas
 

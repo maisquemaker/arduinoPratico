@@ -29,7 +29,6 @@
 
 void setup() {
   pinMode(3, OUTPUT);
-  Serial.begin(9600);
 }
 
 
@@ -38,9 +37,8 @@ void loop() {
   int x;
 
   x = analogRead(A0);
-  Serial.println(x);
 
-  if (x < 1000) {
+  if (x < 200) {
     beep();
   } else {
     digitalWrite(3, LOW);
