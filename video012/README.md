@@ -2,7 +2,9 @@
 
 ## Descrição
 
-Neste vídeo, apresento como usar as portas analógicas do Arduino através da função `analogRead()`. Através da aplicação direta da teoria apresentada no vídeo anterior, demonstro como conseguimos obter vários valores diferentes na porta analógica A0 usando um potenciômetro comum.
+Eu inicio este vídeo apresentando a comunicação serial entre o Ardiuno e o computador, fundamental para acompanharmos o que está acontecendo em nosso programa.
+
+Depois, apresento como usar as portas analógicas do Arduino através da função `analogRead()`. Através da aplicação direta da teoria apresentada no vídeo anterior, demonstro como conseguimos obter vários valores diferentes na porta analógica A0 usando um potenciômetro comum.
 
 A seguir, mostro um componente novo: o **LDR**. Analiso a sua variação de resistência de acordo com a incidência de luz e faço um divisor de tensão simples usando um outro resistor e a teoria que já aprendemos.
 
@@ -36,7 +38,11 @@ A montagem varia no decorrer da explicação, iniciando com a aplicação do pot
 
 ### Documentação oficial
 
-* [`analogRead()`](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)
+* [`analogRead()`](https://www.arduino.cc/reference/pt/language/functions/analog-io/analogread/)
+* [`Serial`](https://www.arduino.cc/reference/pt/language/functions/communication/serial/)
+  * [`Serial.begin()`](https://www.arduino.cc/reference/pt/language/functions/communication/serial/begin/)
+  * [`Serial.print()`](https://www.arduino.cc/reference/pt/language/functions/communication/serial/print/)
+  * [`Serial.println()`](https://www.arduino.cc/reference/pt/language/functions/communication/serial/println/)
 
 ## Licença
 

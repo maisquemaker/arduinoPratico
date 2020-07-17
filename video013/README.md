@@ -1,4 +1,4 @@
-# Vídeo 13 - Introdução a transistores
+# Vídeo 13 - Transistor e uma Sirene de Alarme Real
 
 ## Descrição
 
@@ -12,7 +12,7 @@ Para o teste prático, usamos uma sirene de 12V e 200mA, que será usada em víd
 
 ## Montagem
 
-A montagem é uma demonstração de como usar um transistor NPN ligado em emissor comum para ser usado como chave eletônica. Usamos duas fontes de alimentação, sendo uma de 5V e outra de 12V. Usamos uma sirene modelo GK-10.
+A montagem é uma demonstração de como usar um transistor NPN ligado em emissor comum para ser usado como chave eletônica. Usamos duas fontes de alimentação, sendo uma de 5V e outra de 12V. O resistor apresentado no circuito de 12V (à direita) representa a carga, que no nosso caso é uma sirene modelo GK-10.
 
 ![Montagem do circuito do vídeo 13](imagens/montagem.png)
 
