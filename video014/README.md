@@ -1,10 +1,10 @@
-# Vídeo 14 - Um alarme melhor com sirene profissional
+# Vídeo 14 - Um alarme melhor, com umasirene profissional
 
 ## Descrição
 
-Neste vídeo, vamos avançar um pouco mais, juntando a sirene controlada por pelo transistor com o nosso circuito de alarme. A sirene usa uma alimentação de 12V e 200mA, mas será controlada por uma porta do Arduino, usando 5V e pouco mais de 4mA.
+Neste vídeo, vamos avançar um pouco mais o nosso projeto do alarme, juntando a sirene controlada por pelo transistor ao nosso circuito de alarmea laser. A sirene usa uma alimentação de 12V e 200mA, mas será controlada por uma porta do Arduino, através de um transistor, usando 5V e pouco mais de 4mA.
 
-Além disso, vamos incluir um botão para desligar a sirene, preparando o alarme para ser desparado novamente quando o laser for interrompido novamente.
+Além disso, vamos incluir um botão para desligar a sirene, preparando o alarme para ser disparado quando o laser for interrompido novamente.
 
 ## Montagem
 
@@ -16,20 +16,11 @@ A montagem é uma combinação dos circuitos anteriores, onde o buzzer do vídeo
 
 ### Vídeo
 
-* [Youtube](https://youtu.be/)
+* [Youtube](https://youtu.be/pAEGl_JKAhQ)
 
 ### Circuitos e diagramas
 
-* [Circuito no Thinkercad](https://www.tinkercad.com/things/)
-
-### Datasheets
-
-* [Transistor 2N3904](../datasheets/transistor-2n3904.pdf)
-* [Transistor TIP31](../datasheets/transistor-tip31.pdf)
-
-### Documentação oficial
-
-* [`analogRead()`](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)
+* [Circuito no Thinkercad](https://www.tinkercad.com/things/bvI5Mah2ZXh)
 
 ## Licença
 
